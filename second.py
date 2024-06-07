@@ -153,3 +153,4 @@ str3="     Hello    I am      Avwal    "
 print(str3.strip())
 print(str3.lstrip())  #only from left
 print(str3.rstrip())  #only form right
+print(str3.capitalize())
