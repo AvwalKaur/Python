@@ -138,7 +138,7 @@ print(str1.index('students'))  #starting index : 10
 
 # To slice or split or cut the string
 # Using split() method
-# when the method finds the separaotor, it splits the string there
+# when the method finds the separator, it splits the string there
 # default separator is space
 str2="Hi, I am, learning Python"
 print(str2.split())
